@@ -28,14 +28,13 @@ AngularJS-powered HTML5 Markdown editor.
 
 | Skill | Score | Desciption |
 | ------ | ------ | ------ |
-| [![Python](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)] | 중 | 주사용 언어 |
-
+| ㅇ| 중 | 주사용 언어 |
 | Pytorch | 중 | 논문 재현 |
 | [![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)] | 중 | 업무 활용 가능 |
 | R | 중 | 통계 프로젝트 경험 |
 | Docker | 하 | 업무 사용 경험 |
 | Django | 하 | 개인 프로젝트 경험 |
-| AWS/GCP | 하 | 개인 프로젝트 경험 |
+| [![AWS](https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)] | 하 | 개인 프로젝트 경험 |
 | HTML/CSS/JS | 하 | 간단한 웹 개발 가능 |
 
 
