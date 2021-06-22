@@ -24,9 +24,25 @@ AngularJS-powered HTML5 Markdown editor.
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
 
+## Skills
+
+| Skill | Score | Desciption |
+| ------ | ------ | ------ |
+| [Python(https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)] | 중 | 주사용 언어 |
+| #FF6F00]/Keras | 중 | 논문 재현 |
+| Pytorch | 중 | 논문 재현 |
+| SQL | 중 | 업무 활용 가능 |
+| R | 중 | 통계 프로젝트 경험 |
+| Docker | 하 | 업무 사용 경험 |
+| Django | 하 | 개인 프로젝트 경험 |
+| AWS/GCP | 하 | 개인 프로젝트 경험 |
+| HTML/CSS/JS | 하 | 간단한 웹 개발 가능 |
+
+
 ## 📝�Hackathon Development
 
 경진대회 설계, 운영 리스트
+
 
 ### Public Hackathon 
 
@@ -52,19 +68,7 @@ AngularJS-powered HTML5 Markdown editor.
 - [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)
 
 
-## Skills
 
-| Skill | Score | Desciption |
-| ------ | ------ | ------ |
-| Python | 중 | 주사용 언어 |
-| [![Tensorflow](https://camo.githubusercontent.com/fa9e93446f0dd3decd3cb8e198c9ca3ece5a265628860ffdda451c84b3aa22cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72666c6f772d4646384330413f7374796c653d666c6174266c6f676f3d54656e736f72666c6f77266c6f676f436f6c6f723d7768697465)]/Keras | 중 | 논문 재현 |
-| Pytorch | 중 | 논문 재현 |
-| SQL | 중 | 업무 활용 가능 |
-| R | 중 | 통계 프로젝트 경험 |
-| Docker | 하 | 업무 사용 경험 |
-| Django | 하 | 개인 프로젝트 경험 |
-| AWS/GCP | 하 | 개인 프로젝트 경험 |
-| HTML/CSS/JS | 하 | 간단한 웹 개발 가능 |
 
 
 <!--
