@@ -57,7 +57,7 @@ AngularJS-powered HTML5 Markdown editor.
 | Skill | Score | Desciption |
 | ------ | ------ | ------ |
 | Python | 중 | 주사용 언어 |
-| [Tensorflow](https://camo.githubusercontent.com/fa9e93446f0dd3decd3cb8e198c9ca3ece5a265628860ffdda451c84b3aa22cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72666c6f772d4646384330413f7374796c653d666c6174266c6f676f3d54656e736f72666c6f77266c6f676f436f6c6f723d7768697465)/Keras | 중 | 논문 재현 |
+| [![Tensorflow]](https://camo.githubusercontent.com/fa9e93446f0dd3decd3cb8e198c9ca3ece5a265628860ffdda451c84b3aa22cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72666c6f772d4646384330413f7374796c653d666c6174266c6f676f3d54656e736f72666c6f77266c6f676f436f6c6f723d7768697465)/Keras | 중 | 논문 재현 |
 | Pytorch | 중 | 논문 재현 |
 | SQL | 중 | 업무 활용 가능 |
 | R | 중 | 통계 프로젝트 경험 |
