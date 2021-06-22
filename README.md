@@ -28,7 +28,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 | Skill | Score | Desciption |
 | ------ | ------ | ------ |
-| [Python(https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom)] | 중 | 주사용 언어 |
+| [Python](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom) | 중 | 주사용 언어 |
 | #FF6F00]/Keras | 중 | 논문 재현 |
 | Pytorch | 중 | 논문 재현 |
 | SQL | 중 | 업무 활용 가능 |
