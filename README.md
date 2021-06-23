@@ -24,7 +24,7 @@ AngularJS-powered HTML5 Markdown editor.
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
 
-## Skills
+## 🌠 Skills
 
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
@@ -38,7 +38,7 @@ AngularJS-powered HTML5 Markdown editor.
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 
 
-## 📝�Hackathon Development
+## 📝Hackathon Development
 
 경진대회 설계, 운영 리스트
 
@@ -48,14 +48,14 @@ AngularJS-powered HTML5 Markdown editor.
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
 | [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description) | DACON | 심리 | 정형 |
-| [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description) | SNU | 영상 | VISION |
+| [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description) | 서울대학교 | 영상 | VISION |
 | [소설 작가 분류 AI 경진대회](https://www.dacon.io/competitions/official/235670/overview/description) | DACON | 문학 | NLP |
-| [AI야, 진짜 뉴스를 찾아줘! AI 경진대회](https://www.dacon.io/competitions/official/235658/overview/description) | NHQV | 금융 | NLP |
-| [Y&Z세대 투자자 프로파일링 시각화 경진대회](https://www.dacon.io/competitions/official/235663/overview/description) | NHQV | 금융 | 시각화 |
+| [AI야, 진짜 뉴스를 찾아줘! AI 경진대회](https://www.dacon.io/competitions/official/235658/overview/description) | NH투자증권 | 금융 | NLP |
+| [Y&Z세대 투자자 프로파일링 시각화 경진대회](https://www.dacon.io/competitions/official/235663/overview/description) | NH투자증권 | 금융 | 시각화 |
 | [국회 입법활동 빅데이터 시각화 경진대회](https://www.dacon.io/competitions/official/235679/overview/description) | DACON | 정치 | 정형 |
-| [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description) | DACON | 운동 | 정형 |
 | [제 2회 컴퓨터 비전 학습 경진대회](https://www.dacon.io/competitions/official/235697/overview/description) | DACON | 이미지 | VISION |
 | [모션 키포인트 검출 AI 경진대회](https://www.dacon.io/competitions/official/235701/overview/description) | SuperbAI | 운동 | DETECTION |
+| [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description) | DACON | 운동 | 정형 |
 | [신용카드 사용자 연체 예측 AI 경진대회](https://www.dacon.io/competitions/official/235713/overview/description) | DACON | 금융 | 정형 |
 | [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | INNOPOLIS | 보안 | NLP |
 | [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
@@ -63,10 +63,12 @@ AngularJS-powered HTML5 Markdown editor.
 
 ### Inclass Hackathon 
 
-- [단국대 소프트웨어 중심 데이터 분석 AI 경진대회](https://www.dacon.io/competitions/official/235638/overview/description)
-- [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description)
-- [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description)
-- [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)
+| Hackathon | Sponsor | Domain | Category |
+| ------ | ------ | ------ | -----|
+| [단국대 소프트웨어 중심 데이터 분석 AI 경진대회](https://www.dacon.io/competitions/official/235638/overview/description) | 단국대학교 | 천문 | 정형 |
+| [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description) | 중앙대학교 | 심리 | 정형 |
+| [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
+| [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
 
 
 
