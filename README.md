@@ -14,16 +14,18 @@ AngularJS-powered HTML5 Markdown editor.
 
 ## 🏛 Profile
 
-- 서울보성고등학교 졸업 _2011.03~2014.02_
-- 성균관대학교 유학동양학/통계학 졸업 _2014.03~2021.02_
-- 성균관대학교 데이터사이언스융합대학원 재학 _2021.03~_
+- 서울보성고등학교 졸업 &nbsp; _2011.03~2014.02_
+- 성균관대학교 유학동양학/통계학 졸업 &nbsp; _2014.03~2021.02_
+   - 중앙야구동아리 킹고야구반 &nbsp; _2014.03~2021.02_
+   - 인공지능학회 TNT &nbsp; _2019.07~2021.07_
+- 성균관대학교 데이터사이언스융합대학원 재학 &nbsp; _2021.03~_
 - Email: dpapfkfemha@gmail.com
 <br/>
 
 
 ## 🏢 Career
 
-- Data Scienctist, [DACON](https://www.dacon.io/) _2020.06~_
+- Data Scienctist, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
 <br/>
