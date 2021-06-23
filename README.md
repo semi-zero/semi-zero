@@ -26,7 +26,6 @@ AngularJS-powered HTML5 Markdown editor.
   - AI 교육 강사
 
 ## 🌠 Skills
-
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
