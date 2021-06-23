@@ -16,8 +16,8 @@ AngularJS-powered HTML5 Markdown editor.
 
 - 서울보성고등학교 졸업 &nbsp;&nbsp;&nbsp; _2011.03~2014.02_
 - 성균관대학교 유학동양학/통계학 졸업 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
-   - 중앙야구동아리 킹고야구반 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
-   - 인공지능학회 TNT &nbsp;&nbsp;&nbsp; _2019.07~2021.07_
+   - 중앙야구동아리 킹고야구반 
+   - 인공지능학회 TNT 
 - 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
 - Email: dpapfkfemha@gmail.com
 <br/>
