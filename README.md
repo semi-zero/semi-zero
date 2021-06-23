@@ -29,7 +29,7 @@ AngularJS-powered HTML5 Markdown editor.
 | Skill | Score | Desciption |
 | ------ | ------ | ------ |
 | ㅇ| 중 | 주사용 언어 |
-| Pytorch | 중 | 논문 재현 |
+| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 가능 |
 | R | 중 | 통계 프로젝트 경험 |
 | Docker | 하 | 업무 사용 경험 |
