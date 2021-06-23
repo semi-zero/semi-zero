@@ -47,19 +47,19 @@ AngularJS-powered HTML5 Markdown editor.
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-| [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description) | DACON | 심리학 | 정형 |
-| [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description) | DACON | 심리학 | 정형 |
-| [소설 작가 분류 AI 경진대회](https://www.dacon.io/competitions/official/235670/overview/description) | DACON | 심리학 | 정형 |
-| [AI야, 진짜 뉴스를 찾아줘! AI 경진대회](https://www.dacon.io/competitions/official/235658/overview/description) | DACON | 심리학 | 정형 |
-| [Y&Z세대 투자자 프로파일링 시각화 경진대회](https://www.dacon.io/competitions/official/235663/overview/description) | DACON | 심리학 | 정형 |
-| [국회 입법활동 빅데이터 시각화 경진대회](https://www.dacon.io/competitions/official/235679/overview/description) | DACON | 심리학 | 정형 |
-| [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description) | DACON | 심리학 | 정형 |
-| [제 2회 컴퓨터 비전 학습 경진대회](https://www.dacon.io/competitions/official/235697/overview/description) | DACON | 심리학 | 정형 |
-| [모션 키포인트 검출 AI 경진대회](https://www.dacon.io/competitions/official/235701/overview/description) | DACON | 심리학 | 정형 |
-| [신용카드 사용자 연체 예측 AI 경진대회](https://www.dacon.io/competitions/official/235713/overview/description) | DACON | 심리학 | 정형 |
-| [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | DACON | 심리학 | 정형 |
-| [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | DACON | 심리학 | 정형 |
-| [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | DACON | 심리학 | 정형 |
+| [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description) | DACON | 심리 | 정형 |
+| [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description) | SNU | 영상 | VISION |
+| [소설 작가 분류 AI 경진대회](https://www.dacon.io/competitions/official/235670/overview/description) | DACON | 문학 | NLP |
+| [AI야, 진짜 뉴스를 찾아줘! AI 경진대회](https://www.dacon.io/competitions/official/235658/overview/description) | NHQV | 금융 | NLP |
+| [Y&Z세대 투자자 프로파일링 시각화 경진대회](https://www.dacon.io/competitions/official/235663/overview/description) | NHQV | 금융 | 시각화 |
+| [국회 입법활동 빅데이터 시각화 경진대회](https://www.dacon.io/competitions/official/235679/overview/description) | DACON | 정치 | 정형 |
+| [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description) | DACON | 운동 | 정형 |
+| [제 2회 컴퓨터 비전 학습 경진대회](https://www.dacon.io/competitions/official/235697/overview/description) | DACON | 이미지 | VISION |
+| [모션 키포인트 검출 AI 경진대회](https://www.dacon.io/competitions/official/235701/overview/description) | SuperbAI | 운동 | DETECTION |
+| [신용카드 사용자 연체 예측 AI 경진대회](https://www.dacon.io/competitions/official/235713/overview/description) | DACON | 금융 | 정형 |
+| [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | INNOPOLIS | 보안 | NLP |
+| [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
+| [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | GTC | 환경 | NLP |
 
 ### Inclass Hackathon 
 
