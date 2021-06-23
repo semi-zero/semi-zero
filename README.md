@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=semi.zero&fontSize=50)
+
 
 ## 박준영(semi.zero)
 
