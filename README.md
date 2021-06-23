@@ -67,7 +67,7 @@ AngularJS-powered HTML5 Markdown editor.
 | [신용카드 사용자 연체 예측 AI 경진대회](https://www.dacon.io/competitions/official/235713/overview/description) | DACON | 금융 | 정형 |
 | [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | 한국원자력연구원 | 보안 | NLP |
 | [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
-| [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | GTC | 환경 | NLP |
+| [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | 녹색기술센터 | 환경 | NLP |
 
 ### Inclass Hackathon 
 
