@@ -1,16 +1,5 @@
-# Dillinger
+# 박준영(semi-zero)
 ## _The Last Markdown Editor, Ever_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 ## 🏛 Profile
 
@@ -78,7 +67,8 @@ AngularJS-powered HTML5 Markdown editor.
 | [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
 | [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
 
-
+## 🌠 Projects
+심전도 데이터를 활용한 부정맥 예측 
 
 
 
