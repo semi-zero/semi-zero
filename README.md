@@ -27,13 +27,13 @@ AngularJS-powered HTML5 Markdown editor.
 ## Skills
 
 | Skill | Score | Desciption |
-| ------ | ------ | ------ |
+| ------ | ------ | ----- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 재현 |
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 중 | 통계 프로젝트 활용 |
-| ![Docker]((https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
 | ![Django](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 
@@ -45,6 +45,8 @@ AngularJS-powered HTML5 Markdown editor.
 
 ### Public Hackathon 
 
+| Hackathon | Sponsor | Domain | Category |
+| ------ | ------ | ------ | -----|
 - [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description)
 - [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description)
 - [소설 작가 분류 AI 경진대회](https://www.dacon.io/competitions/official/235670/overview/description)
