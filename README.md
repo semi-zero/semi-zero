@@ -10,7 +10,6 @@
    - 인공지능학회 TNT 
 - 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
 - Email: dpapfkfemha@gmail.com
-- Instagram: @semi.zero
 <br/>
 
 
