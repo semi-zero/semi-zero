@@ -8,7 +8,7 @@
 - 성균관대학교 유학동양학 / 통계학 졸업 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
    - 유학대학 학생회
    - 중앙야구동아리 킹고야구반 
-   - 인공지능학회 TNT 
+   - 인공지능학회 TNT (Train N Test)
 - 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
 - Email: dpapfkfemha@gmail.com
 <br/>
@@ -69,9 +69,6 @@
 | [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description) | 중앙대학교 | 심리 | 정형 |
 | [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
 | [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
-
-## 🌠 Projects
-심전도 데이터를 활용한 부정맥 예측 
 
 
 
