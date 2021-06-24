@@ -6,6 +6,7 @@
 
 - 서울보성고등학교 졸업 &nbsp;&nbsp;&nbsp; _2011.03~2014.02_
 - 성균관대학교 유학동양학 / 통계학 졸업 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
+   - 유학대학 학생회
    - 중앙야구동아리 킹고야구반 
    - 인공지능학회 TNT 
 - 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
@@ -18,6 +19,7 @@
 - Data Scienctist, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
+  - 유저 데이터 분석 및 마케팅
 <br/>
 
 ## 🌠 Skills
