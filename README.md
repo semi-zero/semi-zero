@@ -22,6 +22,7 @@
   - 유저 데이터 분석 및 마케팅
 
 - Data Science Team, AXA 손해보험  &nbsp; _2021.07~_
+  - 인턴
 
 <br/>
 
