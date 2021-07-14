@@ -16,10 +16,13 @@
 
 ## 🏢 Career
 
-- Data Scienctist, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_
+- Data Science Team, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_2021.07
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
   - 유저 데이터 분석 및 마케팅
+
+- Data Science Team, AXA 손해보험  &nbsp; _2021.07~_
+
 <br/>
 
 ## 🌠 Skills
