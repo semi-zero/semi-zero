@@ -65,6 +65,7 @@
 | [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
 | [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | 녹색기술센터 | 환경 | NLP |
 
+
 ### Inclass Hackathon 
 
 | Hackathon | Sponsor | Domain | Category |
@@ -73,6 +74,8 @@
 | [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description) | 중앙대학교 | 심리 | 정형 |
 | [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
 | [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
+| [2021 인하 인공지능 챌린지](https://www.dacon.io/competitions/official/235696/overview/description) | 인하대학교 | 일반 | 비전 |
+| [SK 플래닛 T 아카데미](https://www.dacon.io/competitions/official/235696/overview/description) | SK 플래닛 | 금융 | 정형 |
 
 
 
