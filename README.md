@@ -21,8 +21,8 @@
   - AI 교육 강사
   - 유저 데이터 분석 및 마케팅
 
-- Data Science Team , AXA 손해보험  &nbsp; _2021.07~_
-  - Internship
+- Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~_
+  - 보험 적발 FDS 개발
 
 <br/>
 
