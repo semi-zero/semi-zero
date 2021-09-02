@@ -36,6 +36,7 @@
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 중 | 통계 프로젝트 활용 |
+| ![Tableau](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 중 | 업무 활용 |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
 | ![Django](https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
