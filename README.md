@@ -15,7 +15,7 @@
 
 
 ## 🏢 Career
-- Player, SKKU 킹고야구반 &nbsp; _2014.03~_
+- Player, [성균관대 킹고야구반](https://instagram.com/kingo_yaguban) &nbsp; _2014.03~_
   - 2019 KUSF(한국대학스포츠협의회) 수도권 지역대회 우승 감독
   - 2019 AUBL(전국대학아마야구연합회) 우승 감독 
 
