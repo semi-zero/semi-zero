@@ -15,6 +15,9 @@
 
 
 ## 🏢 Career
+- Player, SKKU 킹고야구반 &nbsp; _2014.03~_
+  - 2019 KUSF(한국대학스포츠협의회) 수도권 지역대회 우승 감독
+  - 2019 AUBL(전국대학아마야구연합회) 우승 감독 
 
 - Data Science Team, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_2021.07
   - AI Hackathon 설계, 운영 평가
