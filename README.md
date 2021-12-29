@@ -25,7 +25,7 @@
   - 유저 데이터 분석 및 마케팅
 
 - Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~_
-  - 보험 사기 적발 FDS 모델 개발
+  - 보험 사기 적발 FDS 모델 성능 개선
 
 <br/>
 
