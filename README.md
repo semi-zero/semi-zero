@@ -19,12 +19,12 @@
   - 2019 KUSF(한국대학스포츠협의회) 수도권 지역대회 우승 감독
   - 2019 AUBL(전국대학아마야구연합회) 우승 감독 
 
-- Data Science Team, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_2021.07
+- Data Science Team, [DACON](https://www.dacon.io/) &nbsp; _2020.06~2021.07_
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
   - 유저 데이터 분석 및 마케팅
 
-- Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~_2021.12
+- Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~2021.12_
   - 보험 사기 적발 FDS 모델 성능 개선
 
 <br/>
