@@ -27,7 +27,7 @@
 - Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~2021.12_
   - 보험 사기 적발 FDS 모델 성능 개선
 
-- Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~
+- Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~_
 
 <br/>
 
