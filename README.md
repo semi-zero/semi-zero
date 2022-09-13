@@ -9,7 +9,7 @@
    - 유학대학 학생회
    - 중앙야구동아리 킹고야구반 
    - 인공지능학회 TNT (Train N Test)
-- 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
+- 성균관대학교 일반대학원 데이터사이언스융합학과 졸업 &nbsp;&nbsp;&nbsp; _2021.03~2022.08_
 - Email: dpapfkfemha@gmail.com
 <br/>
 
