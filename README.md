@@ -28,6 +28,8 @@
   - 보험 사기 적발 FDS 모델 성능 개선
 
 - Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~_
+  - Smart Eco Data Platform AI 서비스맵 Pre-built 모델 개발
+  
 
 <br/>
 
@@ -36,15 +38,15 @@
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 논문 재현 |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 재현 |
-| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 논문 구현 |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 구현 |
+| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 구현 |
+| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 중 | 업무  |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 중 | 통계 프로젝트 활용 |
 | ![Tableau](https://img.shields.io/badge/Tableau-276DC3?style=flat-square&logo=Tableau&logoColor=white) | 중 | 업무 활용 |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
 | ![Django](https://img.shields.io/badge/Django-4479A1?style=flat-square&logo=Django&logoColor=white) | 하 | 개인 프로젝트 경험 |
-| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 <br/>
 
 ## 📝Hackathon Development
