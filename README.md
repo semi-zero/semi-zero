@@ -28,7 +28,7 @@
   - 보험 사기 적발 FDS 모델 성능 개선
 
 - Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~_
-  - Smart Eco Data Platform AI 서비스맵 Pre-built 모델 개발
+  - Smart Eco Data Platform AI 서비스맵 AutoML 모델 개발
   
 
 <br/>
