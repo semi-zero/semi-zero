@@ -10,6 +10,7 @@
    - 중앙야구동아리 킹고야구반 
    - 인공지능학회 TNT (Train N Test)
 - 성균관대학교 일반대학원 데이터사이언스융합학과 졸업 &nbsp;&nbsp;&nbsp; _2021.03~2022.08_
+   - "Few shot anomaly detection을 활용한 이상금융거래탐지 시스템(FDS) 모형 개발"
 - Email: dpapfkfemha@gmail.com
 <br/>
 
