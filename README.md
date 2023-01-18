@@ -23,13 +23,14 @@
 - Data Science Team, [DACON](https://www.dacon.io/) &nbsp; _2020.06~2021.07_
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
-  - 유저 데이터 분석 및 마케팅
+  - 유저 데이터 분석
 
 - Data Science Team , [AXA Insurance](https://www.axa.co.kr/index_email_relay.jsp)  &nbsp; _2021.07~2021.12_
   - 보험 사기 적발 FDS 모델 성능 개선
 
 - Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~_
   - Smart Eco Data Platform AI 서비스맵 AutoML 모델 개발
+  - 면세점 분석
   
 
 <br/>
