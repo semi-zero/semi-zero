@@ -32,6 +32,7 @@
   - Smart Eco Data Platform AI 서비스맵 AutoML 모델 개발
   - 면세점 분석
   
+에코 데이터 플랫폼의 이름은 무엇이 될련지
 
 <br/>
 
