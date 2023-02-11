@@ -30,7 +30,7 @@
 
 - Data Scientist , [롯데정보통신](https://www.ldcc.co.kr/)  &nbsp; _2022.03~_
   - Smart Eco Data Platform AI 서비스맵 AutoML 모델 개발
-  - 면세점 분석
+  
   
 
 <br/>
